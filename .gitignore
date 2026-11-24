@@ -1,0 +1,13 @@
+# Competition kit (fetched, never committed)
+u-suga-the-robot-apology-dd96bb59-kit/
+kit.tar.gz
+
+# Node
+node_modules/
+
+# Logs and editor files
+*.log
+.DS_Store
+
+# Submission bundle (built by the main agent, never committed)
+transcripts.tar.gz
